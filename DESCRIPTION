@@ -12,4 +12,3 @@ Description:    This is an R wrapper for the C++ based Compact language
 License: file LICENCE
 SystemRequirements: g++ or Microsoft VC++
 LazyLoad: yes
-
